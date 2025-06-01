@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gra w kólko i krzyzyk serwer", "Gra w kólko i krzyzyk\Gra w kólko i krzyzyk serwer.csproj", "{79E88E42-8A3D-4921-961A-C0AF33DB78BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gra w kólko i krzyżyk klient", "Klient TicTaktoe\gra w kólko i krzyżyk klient.csproj", "{3E069A60-0D80-4770-A69B-2108F6A7CD04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79E88E42-8A3D-4921-961A-C0AF33DB78BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E88E42-8A3D-4921-961A-C0AF33DB78BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E88E42-8A3D-4921-961A-C0AF33DB78BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E88E42-8A3D-4921-961A-C0AF33DB78BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E069A60-0D80-4770-A69B-2108F6A7CD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E069A60-0D80-4770-A69B-2108F6A7CD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E069A60-0D80-4770-A69B-2108F6A7CD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E069A60-0D80-4770-A69B-2108F6A7CD04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {950A4B71-2257-48BC-BAC6-4E8CD94DB230}
+	EndGlobalSection
+EndGlobal
