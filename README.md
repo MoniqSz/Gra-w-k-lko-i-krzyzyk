@@ -33,4 +33,4 @@ Celem projektu jest stworzenie gry w kółko i krzyżyk działającej w trybie k
 - Wariant gry w statki.
 
 ## 👤 Autor
-Autor projektu: [Wpisz swoje imię i nazwisko]
+Autor projektu: Monika Szczepanik
